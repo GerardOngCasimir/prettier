@@ -10,3 +10,4 @@ overrides:
       - "tsconfig.json"
     options:
       parser: jsonc
+    "plugins": ["prettier-plugin-tailwindcss"]
